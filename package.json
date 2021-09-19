@@ -1,0 +1,23 @@
+{
+  "name": "cypress-err",
+  "version": "1.0.0",
+  "description": "This is just the dummy demo app to reproduce webpack compilation error while running Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitguptagwl/cypress-err.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitguptagwl/cypress-err/issues"
+  },
+  "homepage": "https://github.com/amitguptagwl/cypress-err#readme",
+  "dependencies": {
+    "cypress": "^8.4.1"
+  }
+}
